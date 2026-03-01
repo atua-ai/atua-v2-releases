@@ -5,5 +5,12 @@
         <link>https://github.com/atua-ai/atua-v2-releases</link>
         <description>Updates for Atua</description>
         <language>en</language>
-    </channel>
+                <item>
+                <title>Version 1.0.18</title>
+                <description><![CDATA[<ul><li>Minor improvements and bug fixes</li></ul>]]></description>
+                <pubDate>Sun, 01 Mar 2026 00:46:41 +0000</pubDate>
+                <enclosure url="https://github.com/atua-ai/atua-v2-releases/releases/download/v1.0.18/Atua-1.0.18.zip" type="application/octet-stream" sparkle:version="1.0.18" sparkle:shortVersionString="1.0.18" length="7866259" sparkle:edSignature="7zUq50mqAIwPESDL/m4aiiIeWkffxZk9Q9H8OpR2id6nstVVdG7v5/bnTXvxogDN97e7gGpp/EhlmxMz/nayCg=="/>
+                <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            </item>
+        </channel>
 </rss>
