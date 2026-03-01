@@ -19,5 +19,12 @@
                 <enclosure url="https://github.com/atua-ai/atua-v2-releases/releases/download/v1.0.20/Atua-1.0.20.zip" type="application/octet-stream" sparkle:version="1.0.20" sparkle:shortVersionString="1.0.20" length="14898242" sparkle:edSignature="KTNI47uJuzXYgcC53tk/UseRNY/Xh6xhjx5qxmHPmm8cL4Ap9j0maFkcvySi8fgLOWaDhGqrd5EbJzs26SdlAw=="/>
                 <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             </item>
+                    <item>
+                <title>Version 1.0.21</title>
+                <description><![CDATA[<ul><li>Minor improvements and bug fixes</li></ul>]]></description>
+                <pubDate>Sun, 01 Mar 2026 01:29:18 +0000</pubDate>
+                <enclosure url="https://github.com/atua-ai/atua-v2-releases/releases/download/v1.0.21/Atua-1.0.21.zip" type="application/octet-stream" sparkle:version="1.0.21" sparkle:shortVersionString="1.0.21" length="14946936" sparkle:edSignature="930OQaCz5fhPoj0GXpyO4DFkht60G0wzcI6cp7Iv6M30THqp1Ka4jDNBQk0qErxgkjEWr3w4O96KsOF7+e2TDw=="/>
+                <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            </item>
         </channel>
 </rss>
