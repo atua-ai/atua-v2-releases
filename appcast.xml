@@ -117,5 +117,12 @@
                 <enclosure url="https://github.com/atua-ai/atua-v2-releases/releases/download/v1.1.4/Atua-1.1.4.zip" type="application/octet-stream" sparkle:version="10104" sparkle:shortVersionString="1.1.4" length="19713946" sparkle:edSignature="KhL6/kHEmkQKcwMtFrHEf1noZMNDqcwyCR19t0+Ncg7PuJHhzDsCyzw86ePlWJVyKX/t4gNo979KgsunQyEsAQ=="/>
                 <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             </item>
+                    <item>
+                <title>Version 2.0.0</title>
+                <description><![CDATA[<ul><li>fix remove the temp patch to swift sdk</li></ul>]]></description>
+                <pubDate>Mon, 09 Mar 2026 00:37:59 +0000</pubDate>
+                <enclosure url="https://github.com/atua-ai/atua-v2-releases/releases/download/v2.0.0/Atua-2.0.0.zip" type="application/octet-stream" sparkle:version="20000" sparkle:shortVersionString="2.0.0" length="19262984" sparkle:edSignature="Qv3gGxJ8i/02/xCcvOawAuVNM9UodKCVM78rB2F7iz+lKLihoSwbU9C5b7hzIWuKcxJTlIDazsa5R43LqdlHCg=="/>
+                <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            </item>
         </channel>
 </rss>
