@@ -131,5 +131,12 @@
                 <enclosure url="https://github.com/atua-ai/atua-v2-releases/releases/download/v2.0.1/Atua-2.0.1.zip" type="application/octet-stream" sparkle:version="20001" sparkle:shortVersionString="2.0.1" length="19262131" sparkle:edSignature="8vPJOMJ8tP1YRGsIA9tjwyyI/QpoBJZHAPe6xUk/G5k5IvHcvl1Q5Gr1uLWk6a7ql/CssQUkenHTnPJL5NelBg=="/>
                 <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             </item>
+                    <item>
+                <title>Version 2.0.2</title>
+                <description><![CDATA[<ul><li>Added `Esc` to cancel active background commands.</li><li>Added success and failure sounds for background tasks, with a default-on toggle.</li><li>Improved Models, MCP, and Commands settings actions with larger native controls.</li><li>Added delete confirmations for models, commands, and MCP servers.</li></ul>]]></description>
+                <pubDate>Tue, 10 Mar 2026 04:59:00 +0000</pubDate>
+                <enclosure url="https://github.com/atua-ai/atua-v2-releases/releases/download/v2.0.2/Atua-2.0.2.zip" type="application/octet-stream" sparkle:version="20002" sparkle:shortVersionString="2.0.2" length="19651486" sparkle:edSignature="TVWkkujf373FwcHI7S9N0skj9SHDK1S3/aGTC/KNm1NVUK7H8B7f2E1G05mq5rXY0dqUz8HxDDSA0cXcUjbmDw=="/>
+                <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            </item>
         </channel>
 </rss>
