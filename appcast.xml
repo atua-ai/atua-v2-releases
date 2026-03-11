@@ -145,5 +145,12 @@
                 <enclosure url="https://github.com/atua-ai/atua-v2-releases/releases/download/v2.0.3/Atua-2.0.3.zip" type="application/octet-stream" sparkle:version="20003" sparkle:shortVersionString="2.0.3" length="19751879" sparkle:edSignature="wP8CUcazCl6dOHc+CwmPmk465N0HFl0Xuo4dDgpQLzwNYuffn1/wDfMxidisoqeZgaEXFdQcDta4UV5QxRW9CA=="/>
                 <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             </item>
+                    <item>
+                <title>Version 2.0.4</title>
+                <description><![CDATA[<ul><li>Fixed Sparkle updates so they no longer depend on manually enabling App Management.</li><li>Added an explicit macOS update security policy for the bundled Sparkle updater helpers.</li><li>Kept the updater signed and allowlisted for the same developer team across the main app and nested updater processes.</li></ul>]]></description>
+                <pubDate>Wed, 11 Mar 2026 18:55:32 +0000</pubDate>
+                <enclosure url="https://github.com/atua-ai/atua-v2-releases/releases/download/v2.0.4/Atua-2.0.4.zip" type="application/octet-stream" sparkle:version="20004" sparkle:shortVersionString="2.0.4" length="19751975" sparkle:edSignature="bHGgHCO1LvTivOUqAgdPruexYJL6+NTjbc/0nQ5xzt/BZqYD+0J7n58j4VejxI6aea+vcwd8zxiZ1QNacJhgAQ=="/>
+                <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            </item>
         </channel>
 </rss>
