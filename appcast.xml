@@ -166,5 +166,12 @@
                 <enclosure url="https://github.com/atua-ai/atua-v2-releases/releases/download/v2.0.6/Atua-2.0.6.zip" type="application/octet-stream" sparkle:version="20006" sparkle:shortVersionString="2.0.6" length="19794833" sparkle:edSignature="4YHA8gka2v4DYLN2K1AqLXYjHr21mCyGcCseqj++I4vJVvK5VsrAO2mj+HlNag3C8eDbShlir5HEaqrwPM/vAg=="/>
                 <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             </item>
+                    <item>
+                <title>Version 2.0.7</title>
+                <description><![CDATA[<ul><li>Fixed context capture not working on the MacBook display when an external monitor is connected.</li><li>Fixed window content capture for Chromium-based apps (Discord, GitHub Desktop, Helium, Brave, etc.).</li><li>Fixed window content being cut off or missing in small/non-fullscreen windows.</li><li>Improved background task widget with larger text, icons, and loading indicator.</li><li>Added `{{commandInput}}` to the default command bar prompt for new installs.</li></ul>]]></description>
+                <pubDate>Sun, 15 Mar 2026 09:26:31 +0000</pubDate>
+                <enclosure url="https://github.com/atua-ai/atua-v2-releases/releases/download/v2.0.7/Atua-2.0.7.zip" type="application/octet-stream" sparkle:version="20007" sparkle:shortVersionString="2.0.7" length="19789623" sparkle:edSignature="nyq0f5SNEbeqJq1Gij3AJ/dneUkdo2FiKRpnMICx8MQw3dpW+lNA4X8wDxIDRIQnx/2tHQFH9dOE4T2Sj2cFAA=="/>
+                <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            </item>
         </channel>
 </rss>
