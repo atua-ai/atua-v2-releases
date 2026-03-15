@@ -159,5 +159,12 @@
                 <enclosure url="https://github.com/atua-ai/atua-v2-releases/releases/download/v2.0.5/Atua-2.0.5.zip" type="application/octet-stream" sparkle:version="20005" sparkle:shortVersionString="2.0.5" length="19794899" sparkle:edSignature="66HM8y86f3iSp3AGCUgrMER5ww79GYjPZ4574RC+GlzCt4yiLNJPkj0T4pP+XF3OsJZQfqFN6zVX7ZFy/e5NCg=="/>
                 <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             </item>
+                    <item>
+                <title>Version 2.0.6</title>
+                <description><![CDATA[<ul><li>Improved background task widget with larger fonts, bigger spinner and chevron icons, and moved status indicator to the left of the label.</li><li>Added `{{commandInput}}` to the default command bar prompt so new installs include it out of the box.</li><li>Updated website domain routing.</li></ul>]]></description>
+                <pubDate>Sun, 15 Mar 2026 08:42:02 +0000</pubDate>
+                <enclosure url="https://github.com/atua-ai/atua-v2-releases/releases/download/v2.0.6/Atua-2.0.6.zip" type="application/octet-stream" sparkle:version="20006" sparkle:shortVersionString="2.0.6" length="19794833" sparkle:edSignature="4YHA8gka2v4DYLN2K1AqLXYjHr21mCyGcCseqj++I4vJVvK5VsrAO2mj+HlNag3C8eDbShlir5HEaqrwPM/vAg=="/>
+                <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            </item>
         </channel>
 </rss>
